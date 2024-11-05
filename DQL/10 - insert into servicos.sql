@@ -1,0 +1,22 @@
+insert into serviços(id_motorista, id_utilizador, data_corrida, origem, destino, preco, avaliacao)
+values
+   (6, 7, '2024-01-15', 'Porto', 'Lisboa', 85.50, 'bom'),
+   (7, 4, '2024-01-16', 'Braga', 'Guimarães', 25.00, 'médio'),
+   (8, 2, '2024-01-17', 'Coimbra', 'Aveiro', 35.75, 'bom'),
+   (9, 9, '2024-01-18', 'Faro', 'Lisboa', 120.00, 'bom'),
+   (7, 1, '2024-01-19', 'Viseu', 'Porto', 65.25, 'médio'),
+   (8, 8, '2024-01-20', 'Lisboa', 'Setúbal', 45.50, 'mau'),
+   (6, 5, '2024-01-21', 'Évora', 'Beja', 55.00, 'bom'),
+   (7, 3, '2024-01-22', 'Porto', 'Braga', 40.25, 'médio'),
+   (10, 10, '2024-01-23', 'Coimbra', 'Porto', 70.75, 'bom'),
+   (8, 6, '2024-01-24', 'Lisboa', 'Coimbra', 65.00, 'médio'),
+   (9, 2, '2024-01-25', 'Aveiro', 'Lisboa', 90.50, 'bom'),
+   (6, 9, '2024-01-26', 'Braga', 'Porto', 35.25, 'mau'),
+   (7, 4, '2024-01-27', 'Faro', 'Beja', 85.00, 'médio'),
+   (10, 7, '2024-01-28', 'Setúbal', 'Évora', 55.75, 'bom'),
+   (10, 1, '2024-01-29', 'Guimarães', 'Lisboa', 95.25, 'médio'),
+   (6, 8, '2024-01-30', 'Porto', 'Viseu', 60.50, 'bom'),
+   (10, 5, '2024-01-31', 'Lisboa', 'Faro', 130.00, 'médio'),
+   (9, 10, '2024-02-01', 'Coimbra', 'Braga', 75.25, 'mau'),
+   (7, 3, '2024-02-02', 'Beja', 'Porto', 110.50, 'bom'),
+   (8, 6, '2024-02-03', 'Aveiro', 'Setúbal', 95.75, 'médio');
